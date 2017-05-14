@@ -1,0 +1,22 @@
+{
+  "name": "weight-thing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rexxars/weight-thing.git"
+  },
+  "author": "Espen Hovlandsdal <espen@hovlandsdal.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rexxars/weight-thing/issues"
+  },
+  "homepage": "https://github.com/rexxars/weight-thing#readme",
+  "dependencies": {
+    "changes-stream": "^2.2.0"
+  }
+}
